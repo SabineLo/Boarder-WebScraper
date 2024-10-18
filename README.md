@@ -12,4 +12,6 @@ Average time?
 
 In Progress: Scraping the correct data
 
+Checked: I am able to use the data I checked the copyright :DD
+
 
