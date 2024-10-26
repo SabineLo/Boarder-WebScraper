@@ -8,7 +8,11 @@ Best day to go?
 Worst time to go?
 How wait time decreases/ increases over time?
 Average time?
-
+Why more wait time friday? Because jobs
+Wednesday more wait time swap meet?
+Saturday-
+Streets close? cause more border wait time?
+Analysis
 
 In Progress: Scraping the correct data
 
