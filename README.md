@@ -13,6 +13,7 @@ Wednesday more wait time swap meet?
 Saturday-
 Streets close? cause more border wait time?
 Analysis
+Correlation Analysis: Look for correlations between wait times and external factors (holidays, events in Tijuana, etc.)
 
 In Progress: Scraping the correct data
 
