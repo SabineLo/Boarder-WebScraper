@@ -78,8 +78,6 @@ def locate_table(driver):
         print(f"An error occurred while locating the table: {e}")
     finally:
         driver.quit()  # Ensure the driver is closed after use
-
-
 #Need to implement pandas
 #First make it run every hour, 2nd save the data, from first day save all the info,
 #graph the data from the first two days
@@ -97,7 +95,8 @@ def runs_my_script():
 if __name__ == '__main__':
     #Makes it so its runs every hour me thinks
     #if not work then just do manually 
-    schedule.every().day.at("23:10").do(runs_my_script)
+    
+    schedule.every().day.at("23:57").do(runs_my_script)
     try:
         while True:
             schedule.run_pending()
@@ -108,3 +107,5 @@ if __name__ == '__main__':
 
 #You can manually stop the script by interrupting it (Ctrl + C in the terminal).
 #restarts at 12 so should do 11:57
+#get the data from telemundo next
+#Issue is that it does not run when i close laptop so have to do it manually in order to get the data
